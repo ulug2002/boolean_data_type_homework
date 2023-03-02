@@ -7,5 +7,5 @@ def main(b):
         bool
     """
     # Write your code here
-    return b < 9
-print(main(3))
+    return 9 >3
+print(main(2))
